@@ -5,7 +5,8 @@ There are three datasets given: store, products, and transactions.
 ### Store EDA
 The data is from 79 stores and the stores are locates in 4 states: Kentucky (KY), Ohio (OH), Texas (TX), and Indiana (IN).
 
-![img_2.png](Image/img_2.png){:height="30px" width="30px"}
+<img src="iImage/img_2.png" width="324" height="324">
+![img_2.png](Image/img_2.png)
 
 Texas is the state with the most stores and Indiana has the least. In fact, it seems like there is only one 
 store located in Indiana. Regarding the average weekly basket sales, Texas has the highest average average weekly basket sales, 
@@ -59,10 +60,10 @@ despite changes in price. The category with the highest average elasticity was B
 is also logical as these are the least essential products, shown by the fact that price changes 
 have a large impact on sales.
 
-![img_7.png](Image/img_7.png){:height="30px" width="30px"}
+![img_7.png](Image/img_7.png)
 
 Price elasticity is further examined by the states. 
-![img_8.png](Image/img_8.png){:height="30px" width="30px"}
+![img_8.png](Image/img_8.png)
 
 Looking at the bar graph above, one can know that despite the difference in the range of price 
 elasticities, for all categories, the order of 
