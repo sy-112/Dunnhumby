@@ -5,8 +5,7 @@ There are three datasets given: store, products, and transactions.
 ### Store EDA
 The data is from 79 stores and the stores are locates in 4 states: Kentucky (KY), Ohio (OH), Texas (TX), and Indiana (IN).
 
-<img src="iImage/img_2.png" width="324" height="324">
-![img_2.png](Image/img_2.png)
+<img src="iImage/img_2.png" width="35" height="10">
 
 Texas is the state with the most stores and Indiana has the least. In fact, it seems like there is only one 
 store located in Indiana. Regarding the average weekly basket sales, Texas has the highest average average weekly basket sales, 
