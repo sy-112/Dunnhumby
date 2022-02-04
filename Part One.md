@@ -11,7 +11,7 @@ Texas is the state with the most stores and Indiana has the least. In fact, it s
 store located in Indiana. Regarding the average weekly basket sales, Texas has the highest average average weekly basket sales, 
 then Ohio next but with some higher number of average weekly baskets.
 
-![img_3.png](Image/img_3.png)
+<img src="Image/img_3.png" width="850" height="280">
 
 The stores are categorized into three different segments: Mainstream, Upscale and Value. Stores that are defined as Upscale 
 have the biggest area size and Value generally have a smaller area size. Looking at the average weekly baskets for each segment, it seems as if the size of 
@@ -37,7 +37,7 @@ product received either Display or Feature promotion, and even more if it receiv
 Moreover, product Displays lead to more sales than in-store circulars (Feature). On the other hand, products that only recieved
 priced reduction (TPR_only) lead to similar sales to those of the products that has no promotions.
 
-![img_4.png](Image/img_4.png)
+<img src="Image/img_4.png" width="850" height="280">
 
 Regression trees for predicting the number of units sold with Promotions by different 
 Categories, confirm that the most effective promotional strategy is to use both Display and 
@@ -51,7 +51,7 @@ If it’sless than 1, demand is inelastic - insensitive to price changes.
 Initially, to get a rough idea, for each category regression plots are made to see how the demand of the product changes
 with the change in price. 
 
-![img_6.png](Image/img_6.png)
+<img src="Image/img_6.png" width="850" height="280">
 
 Then the price elasticity is found for each category. The category Oral Hygiene Products had the lowest average elasticity, which makes sense, as 
 goods in this category are considered necessities and consumers are likely to purchase them 
@@ -59,10 +59,10 @@ despite changes in price. The category with the highest average elasticity was B
 is also logical as these are the least essential products, shown by the fact that price changes 
 have a large impact on sales.
 
-![img_7.png](Image/img_7.png)
+<img src="Image/img_7.png" width="850" height="280">
 
 Price elasticity is further examined by the states. 
-![img_8.png](Image/img_8.png)
+<img src="Image/img_8.png" width="850" height="280">
 
 Looking at the bar graph above, one can know that despite the difference in the range of price 
 elasticities, for all categories, the order of 
