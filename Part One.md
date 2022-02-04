@@ -59,7 +59,7 @@ despite changes in price. The category with the highest average elasticity was B
 is also logical as these are the least essential products, shown by the fact that price changes 
 have a large impact on sales.
 
-![img_7.png](Image/img_7.png){:height="15px" width="10px"}
+![img_7.png](Image/img_7.png){:height="30px" width="30px"}
 
 Price elasticity is further examined by the states. 
 ![img_8.png](Image/img_8.png){:height="30px" width="30px"}
