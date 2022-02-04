@@ -37,7 +37,7 @@ product received either Display or Feature promotion, and even more if it receiv
 Moreover, product Displays lead to more sales than in-store circulars (Feature). On the other hand, products that only recieved
 priced reduction (TPR_only) lead to similar sales to those of the products that has no promotions.
 
-<img src="Image/img_4.png" width="850" height="280">
+<img src="Image/img_4.png">
 
 Regression trees for predicting the number of units sold with Promotions by different 
 Categories, confirm that the most effective promotional strategy is to use both Display and 
@@ -51,7 +51,7 @@ If it’sless than 1, demand is inelastic - insensitive to price changes.
 Initially, to get a rough idea, for each category regression plots are made to see how the demand of the product changes
 with the change in price. 
 
-<img src="Image/img_6.png" width="850" height="280">
+<img src="Image/img_6.png">
 
 Then the price elasticity is found for each category. The category Oral Hygiene Products had the lowest average elasticity, which makes sense, as 
 goods in this category are considered necessities and consumers are likely to purchase them 
@@ -59,7 +59,7 @@ despite changes in price. The category with the highest average elasticity was B
 is also logical as these are the least essential products, shown by the fact that price changes 
 have a large impact on sales.
 
-<img src="Image/img_7.png" width="850" height="280">
+<img src="Image/img_7.png" width="350" height="280">>
 
 Price elasticity is further examined by the states. 
 <img src="Image/img_8.png" width="850" height="280">
