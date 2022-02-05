@@ -80,7 +80,7 @@ potentially explains Indiana’s price-elasticity
 as the data comes only from one type of 
 store - mainstream.
 
-## Conlusion 
+## Conclusion 
 Through the use of linear regression and regression trees it is safe to say that using both promotions 
 types together consistently increases units and visits. Furthermore, oral hygiene products have 
 the lowest price elasticity, while bag snacks have the highest price elasticity and Indiana as a 
